@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
             double farenheit = celcius * 1.8 + 32;
 
-            Intent intent = new Intent(MainActivity.this.resultActivity.class);
+            Intent intent = new Intent(MainActivity.this, resultActivity.class);
             intent.putExtra("farenheit", farenheit);
             startActivity(intent);
 
