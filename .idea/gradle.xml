@@ -16,7 +16,9 @@
             <option value="$PROJECT_DIR$/app/expensify" />
             <option value="$PROJECT_DIR$/app/note" />
             <option value="$PROJECT_DIR$/app/questionaire" />
+            <option value="$PROJECT_DIR$/app/reader" />
             <option value="$PROJECT_DIR$/app/unitconverter" />
+            <option value="$PROJECT_DIR$/app/vocabulary" />
           </set>
         </option>
       </GradleProjectSettings>
