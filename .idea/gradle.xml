@@ -13,9 +13,12 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app/calculator" />
             <option value="$PROJECT_DIR$/app/clockremake" />
+            <option value="$PROJECT_DIR$/app/cooking" />
             <option value="$PROJECT_DIR$/app/expensify" />
+            <option value="$PROJECT_DIR$/app/music" />
             <option value="$PROJECT_DIR$/app/note" />
             <option value="$PROJECT_DIR$/app/questionaire" />
+            <option value="$PROJECT_DIR$/app/quote" />
             <option value="$PROJECT_DIR$/app/reader" />
             <option value="$PROJECT_DIR$/app/unitconverter" />
             <option value="$PROJECT_DIR$/app/vocabulary" />
